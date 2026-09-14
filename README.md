@@ -3,6 +3,9 @@
 
  ![](https://komarev.com/ghpvc/?username=LlMP-BlZKlT&label=chocolate_starfishes%20&base=100&color=000000&style=flat)
 
+[![](https://youtu.be/RYnFIRc0k6E?si=6G5TqIs2k2j2sch6)](https://youtu.be/RYnFIRc0k6E?si=6G5TqIs2k2j2sch6)
+
+
 
 <img width="735" height="586" alt="44bff6bc4cacee8d6082f48406234ca2" src="https://github.com/user-attachments/assets/bd196d0d-f19a-4118-aa7e-d419008d1cf1" />
 
