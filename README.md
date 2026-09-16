@@ -2,11 +2,12 @@
 
 
  ![](https://komarev.com/ghpvc/?username=LlMP-BlZKlT&label=chocolate_starfishes%20&base=100&color=000000&style=flat)
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1010&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&height=100&lines=alright%2C+partnah;keep+on+rollin%2C+baby;you+know+what+time+it+is)](https://git.io/typing-svg)
 
-[![](https://youtu.be/RYnFIRc0k6E?si=6G5TqIs2k2j2sch6)](https://youtu.be/RYnFIRc0k6E?si=6G5TqIs2k2j2sch6)
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/4f545321-c558-4bcb-9fcc-b54a2a8c9f8e" width="735" height="586" controls></video></p>
 
 
-
-<img width="735" height="586" alt="44bff6bc4cacee8d6082f48406234ca2" src="https://github.com/user-attachments/assets/bd196d0d-f19a-4118-aa7e-d419008d1cf1" />
-
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eosxmshwcnwm3wuy63s2ai63ai&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=FFFFFF&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
